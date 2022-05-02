@@ -2,9 +2,22 @@
 
 .title {
   font-size: 48px;
-  font-weight: bold;
   color: rgb(228, 169, 22);
   text-align: center;
+}
+
+.links {
+  font-size: 24px;
+}
+
+.title, .links {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+}
+
+.wings, .steak, .general {
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: 900; 
 }
 
 .wings {
@@ -20,10 +33,39 @@
 }
 
 img {
-    width: 300px;
-    height: auto;
+  width: 300px;
+  height: auto;
 }
 
 div.image {
-    text-align: center;
+  text-align: center;
+}
+
+p {
+  background-color: goldenrod;
+  color: blue;
+  font-size: 20px;
+  font-family: cursive, Arial, Helvetica, sans-serif;
+}
+
+ul li {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+  background-color: pink;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    text-align: justify;
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
