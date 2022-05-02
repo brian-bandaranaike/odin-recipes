@@ -23,3 +23,7 @@ img {
     width: 300px;
     height: auto;
 }
+
+div.image {
+    text-align: center;
+}
