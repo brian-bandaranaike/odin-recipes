@@ -1,7 +1,7 @@
 /* External CSS Styling for Odin Recipes website */
 
 .title {
-  font-size: 36px;
+  font-size: 48px;
   font-weight: bold;
   color: rgb(228, 169, 22);
   text-align: center;
@@ -17,4 +17,9 @@
 
 .general {
   color: rgb(255, 136, 0);
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
